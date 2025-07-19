@@ -70,7 +70,7 @@ export default function IRASpiceLanding() {
     name: "Premium black pepper",
     description:
       "Experience the bold aroma and authentic flavor of handpicked black pepper sourced from Kerala's premium spice farms. Perfect for enhancing the taste of your favorite dishes.",
-    image: "/image.jpg", // Front image
+    image: "/pepper.jpg", // Front image
     backImage: "/image2.jpg", // Backside image
     price: "₹190",
     oldPrice: "₹299",
